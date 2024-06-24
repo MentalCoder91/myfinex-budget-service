@@ -69,3 +69,11 @@
      - `errorCode` (string): Error code.
      - `errorMessage` (string): Error message.
      - `errorTime` (string): Error timestamp.
+    
+![BudgetMS](https://github.com/MentalCoder91/myfinex-budget-service/assets/97496417/67c64c7b-8fd7-4ac9-89a9-f9409edc6bd9)
+
+
+![budgetSchemas](https://github.com/MentalCoder91/myfinex-budget-service/assets/97496417/c49ca453-45da-407e-8461-850f9908a652)
+
+
+
